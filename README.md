@@ -6,7 +6,7 @@
   <h3 align="center">MailerApp</h3>
 
   <p align="center">
-    Una aplicación para enviar emails
+    Una aplicación para enviar emails 💌
   </p>
 </div>
 
@@ -34,9 +34,8 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+## Acerca del proyecto
 
-💌
 
 ### Hecho con
 
