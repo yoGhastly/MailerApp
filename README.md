@@ -66,13 +66,15 @@ Para empezar el proyecto se necesita de algunas dependencias.
   ```
 
 - SendGrid
-
+  ```sh
   pip install sendgrid
-
+  ```
+  
+  
 - SQLite3
-
+  ```sh
   pip install sqlite
-
+  ```
 ### Instalación
 
 1. Las API key y el uso de la base de datos estarán en el archivo a entregar
@@ -82,7 +84,7 @@ Para empezar el proyecto se necesita de algunas dependencias.
    ```
 3. Instala los modulos para python
    ```sh
-   pip install
+   pip install -r requirements.txt
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -91,7 +93,7 @@ Para empezar el proyecto se necesita de algunas dependencias.
 
 ## Uso
 
-    * Para iniciar a usar la aplicación es necesario de una terminal con git y python instalados.
+   Para iniciar a usar la aplicación es necesario de una terminal con git y python instalados.
 
 - Ingresar en la terminal los siguientes comandos para las variables de entorno.
 
