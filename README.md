@@ -41,9 +41,9 @@
 
 - Python
 - Flask
-- HTTML
+- HTML
 - CSS
-- SendGrid
+- SendGrid API
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
