@@ -111,9 +111,9 @@ Para empezar el proyecto se necesita de algunas dependencias.
   ```
   
   
- ```sh
- flask run
- ```
+  ```sh
+  flask run
+  ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
