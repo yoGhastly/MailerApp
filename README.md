@@ -104,6 +104,16 @@ Para empezar el proyecto se necesita de algunas dependencias.
   export FLASK_DATABASE_HOST=localhost
   export SENDGRID_API_KEY=
   ```
+  
+  ```sh
+  flask init-db
+  Database succesfully connected
+  ```
+  
+  
+ ```sh
+ flask run
+ ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
