@@ -73,7 +73,7 @@ Para empezar el proyecto se necesita de algunas dependencias.
   
 - SQLite3
   ```sh
-  pip install sqlite
+  pip install mysqlconnector
   ```
 ### Instalación
 
@@ -98,6 +98,7 @@ Para empezar el proyecto se necesita de algunas dependencias.
 - Ingresar en la terminal los siguientes comandos para las variables de entorno.
 
   ```sh
+  export FLASK_APP=app
   export FLASK_DATABASE_USER= *aquí iría la variable de entorno*
   export FLASK_DATABASE=
   export FLASK_DATABASE_PASSWORD=
