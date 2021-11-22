@@ -73,7 +73,7 @@ Para empezar el proyecto se necesita de algunas dependencias.
   
 - SQLite3
   ```sh
-  pip install mysqlconnector
+  pip install mysql-connector-python
   ```
 ### Instalación
 
